@@ -1,0 +1,35 @@
+.nav_backfround_dark {
+  background-color: #333333;
+}
+.nav_backfround_light {
+  background-color: #dcdcdc;
+}
+
+.navigator-dark {
+  color: #ffffff;
+}
+
+.left-icon {
+  height: 45px;
+  padding-left: 10px;
+}
+.right-icon {
+  height: 45px;
+  padding-right: 10px;
+}
+.link {
+  text-decoration: none;
+}
+.home-para {
+  margin: 5px;
+  font-weight: bold;
+}
+.about-para {
+  margin: 5px;
+  font-weight: bold;
+}
+.but {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
